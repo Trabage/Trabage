@@ -16,6 +16,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Trabage&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Trabage&theme=dark&hide_border=false)<br/>
