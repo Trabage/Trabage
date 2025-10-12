@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">🧠 About Me<br><br>🔧 Passionate about backend development, servers, and system architecture<br><br>🐧 Interested in Linux, DevOps and Interested in Linux, DevOps, and programming.<br><br>💬 Currently learning Java and improving C# and JavaScript skills<br><br>🚀 Always exploring ways to make systems more efficient, secure, and scalable</p>
+<p align="left">🧠 About Me<br><br>🔧 Passionate about backend development, servers, and system architecture<br><br>🐧Interested in Linux, DevOps, and programming.<br><br>💬 Currently learning Java and improving C# and JavaScript skills<br><br>🚀 Always exploring ways to make systems more efficient, secure, and scalable</p>
 
 ###
 
