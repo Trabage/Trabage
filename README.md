@@ -3,6 +3,7 @@
 ###
 
 <p align="left">I mostly do backend stuff. I don’t like doing frontend work like UI/UX. I can build apps, but only their structure.</p>
+<p>Learning <a href="https://hono.dev/">Hono</a></p>
 
 ###
 
@@ -39,6 +40,8 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://hono.dev/images/logo.svg" height="40" alt="Hono" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
   <img width="12" />
